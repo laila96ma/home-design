@@ -11,11 +11,9 @@ import Bathroom1 from './bathroom1';
 import CartIconGl from './CartIconGl';
 import LoginSignUp from "./loginsignup";
 import PassCommande from "./passCommande";
-///import CartBathIcon from "./CartBathIcon";
 import { ShoppingCartProvider } from "./context/shoppingCart";
-//import { BathroomProvider } from "./context/BathroomContext";
-import AccessItem from "./AccessItem";
-//import BathItem from "./bathItem";
+
+
 
 class App extends Component {
   render() {
