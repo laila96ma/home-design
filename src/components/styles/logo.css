@@ -1,0 +1,57 @@
+.logo {
+  position: absolute;
+  left: 5px;
+  top: 0px;
+  border-radius: 70%;
+  width: 70px;
+  border: 1px solid black;
+  margin-left: 5px;
+}
+
+.logo:hover {
+  width: 200px;
+}
+
+form {
+  display: flex;
+  align-items: center;
+}
+
+input[type="search"] {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  outline: none;
+  margin-right: 5px; 
+}
+
+button[type="submit"] {
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: #fff;
+  border: 1px solid #3498db;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  outline: none;
+}
+
+button[type="submit"]:hover {
+  background-color: #258cd1;
+  border-color: #258cd1;
+}
+
+@media screen and (max-width: 600px) {
+  .logo {
+    width: 50px; /* Adjust the logo size for smaller screens */
+  }
+
+  input[type="search"] {
+    font-size: 14px; /* Adjust font size for smaller screens */
+  }
+
+  button[type="submit"] {
+    font-size: 14px; /* Adjust font size for smaller screens */
+  }
+}

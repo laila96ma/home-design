@@ -1,0 +1,52 @@
+[
+    {
+      "id": 12,
+      "nom": "bedroom",
+      "prix": "1000dhs",
+      "description": "",
+      "Image": "/assets/bedroom1.jpg",
+      "category":"bedroom"
+    },
+    {
+      "id": 13,
+      "nom": "bedroom",
+      "prix": "1000dhs",
+      "description": "",
+      "Image": "/assets/bedroom2.jpg",
+      "category":"bedroom"
+    },
+    {
+      "id": 14,
+      "nom": "bedroom",
+      "prix": "1000dhs",
+      "description": "",
+      "Image": "/assets/bedroom3.jpg",
+      "category":"bedroom"
+    },
+    {
+      "id": 14,
+      "nom": "bedroom",
+      "prix1": "1000dhs",
+      "description": "",
+      "Image": "/assets/bedroom4.jpg",
+      "category":"bedroom"
+    },
+    {
+      "id": 15,
+      "nom": "bedroom",
+      "prix": "1000dhs",
+      "description": "",
+      "Image": "/assets/bedroom5.jpg",
+      "category":"bathroom"
+    },
+    {
+      "id": 16,
+      "nom": "bedroom",
+      "prix": "1000dhs",
+      "description": "",
+      "Image": "/assets/bedroom6.jpg",
+      "category":"bathroom"
+    }
+ 
+  ]
+  

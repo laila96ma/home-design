@@ -1,0 +1,75 @@
+.body{
+    margin-top: 20px;
+}
+.projects-content{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    overflow: hidden;
+
+}
+.project-card{
+    background-color: azure;
+    border: 1px solid antiquewhite;
+    min-height: 14em;
+    width:23em;
+    overflow: hidden;
+    border-radius: 10px;
+    margin: 40px;
+    transition: 0.5s ease;
+}
+.project-card:hover{
+    transform: scale(1.1);
+}
+.project-card:hover .project-image{
+    opacity: 0.9;
+}
+.project-image img{
+     width: 100%;
+}
+.project-info{
+    padding: 25px;
+}
+.project-category{
+    font-size: medium;
+    color: black;
+}
+span{
+    color: blueviolet;
+   
+}
+.projcts-content{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.info{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border: 2px solid #3498db;
+    color: #3498db;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .btn:hover {
+    background-color: #3498db;
+    color: #ffffff;
+  }
+  
+.prix{
+    color: brown;
+   
+}

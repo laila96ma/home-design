@@ -1,0 +1,52 @@
+[
+    {
+      "id": 17,
+      "nom": "living room",
+      "prix": "1000dhs",
+      "description": "",
+      "Image": "/assets/living1.jpg",
+      "category":"livingroom"
+    },
+    {
+      "id": 18,
+      "nom": "living room",
+      "prix": "1000dhs",
+      "description": "",
+      "Image": "/assets/living2.jpg",
+      "category":"livingroom"
+    },
+    {
+      "id": 19,
+      "nom": "living room",
+      "prix": "1000dhs",
+      "description": "",
+      "Image": "/assets/living3.jpg",
+      "category":"livingroom"
+    },
+    {
+      "id": 20,
+      "nom": "living room",
+      "prix1": "1000dhs",
+      "description": "",
+      "Image": "/assets/HPCLeather.jpg",
+      "category":"livingroom"
+    },
+    {
+      "id": 21,
+      "nom": "living room",
+      "prix": "1000dhs",
+      "description": "",
+      "Image": "/assets/sallon1.jpg",
+      "category":"livingroom"
+    },
+    {
+        "id": 22,
+        "nom": "living room",
+        "prix": "1000dhs",
+        "description": "",
+        "Image": "/assets/livingclp.jpg",
+        "category":"livingroom"
+      }
+ 
+  ]
+  

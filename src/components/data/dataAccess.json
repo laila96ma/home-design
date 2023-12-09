@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "nom": "Home",
+      "prix": "1000dhs",
+      "description": "",
+      "Image": "/assets/acce.jpg",
+      "category":"Accessoires"
+    },
+    {
+      "id": 2,
+      "nom": "accessory",
+      "prix": "1000dhs",
+      "description": "",
+      "Image": "/assets/acce1.jpg",
+      "category":"Accessoires"
+    },
+    {
+      "id": 3,
+      "nom": "accessory",
+      "prix": "1000dhs",
+      "description": "",
+      "Image": "/assets/acce2.webp",
+      "category":"Accessoires"
+    },
+    {
+      "id": 4,
+      "nom": "mirror",
+      "prix": "1000dhs",
+      "description": "",
+      "Image": "/assets/miroire.jpeg",
+      "category":"Accessoires"
+
+    },
+    {
+      "id": 5,
+      "nom": "shelf",
+      "prix": "1000dhs",
+      "description": "",
+      "Image": "/assets/etagére.webp",
+      "category":"Accessoires"
+    }
+  ]
+  

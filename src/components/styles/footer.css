@@ -1,0 +1,19 @@
+
+.lien {
+    border-radius: 30%;
+    width: 40px;
+    margin-right: 10px;
+}
+
+.réseaux {
+    display: flex;
+    margin-left: 10px;
+}
+.contact {
+    text-align: center; 
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+   
+    justify-content: center; 
+}
