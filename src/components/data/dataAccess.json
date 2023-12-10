@@ -10,7 +10,7 @@
     {
       "id": 2,
       "nom": "accessory",
-      "prix": "1000dhs",
+      "prix": "1500dhs",
       "description": "",
       "Image": "/assets/acce1.jpg",
       "category":"Accessoires"
@@ -18,7 +18,7 @@
     {
       "id": 3,
       "nom": "accessory",
-      "prix": "1000dhs",
+      "prix": "800dhs",
       "description": "",
       "Image": "/assets/acce2.webp",
       "category":"Accessoires"
@@ -26,7 +26,7 @@
     {
       "id": 4,
       "nom": "mirror",
-      "prix": "1000dhs",
+      "prix": "950dhs",
       "description": "",
       "Image": "/assets/miroire.jpeg",
       "category":"Accessoires"
@@ -35,7 +35,7 @@
     {
       "id": 5,
       "nom": "shelf",
-      "prix": "1000dhs",
+      "prix": "500dhs",
       "description": "",
       "Image": "/assets/etagére.webp",
       "category":"Accessoires"

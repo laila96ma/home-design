@@ -2,7 +2,7 @@
     {
       "id": 6,
       "nom": "bathroom",
-      "prix": "1000dhs",
+      "prix": "150000dhs",
       "description": "",
       "Image": "/assets/bathroom1.jpg",
       "category":"bathroom"
@@ -10,7 +10,7 @@
     {
       "id": 7,
       "nom": "bathroom",
-      "prix": "1000dhs",
+      "prix": "25000dhs",
       "description": "",
       "Image": "/assets/bathroom2.jpg",
       "category":"bathroom"
@@ -18,7 +18,7 @@
     {
       "id": 8,
       "nom": "bathroom",
-      "prix": "1000dhs",
+      "prix": "30000dhs",
       "description": "",
       "Image": "/assets/bathroom3.jpg",
       "category":"bathroom"
@@ -26,7 +26,7 @@
     {
       "id": 9,
       "nom": "bathroom",
-      "prix1": "1000dhs",
+      "prix1": "10000dhs",
       "description": "",
       "Image": "/assets/bathroom5.jpg",
       "category":"bathroom"
@@ -34,7 +34,7 @@
     {
       "id": 10,
       "nom": "bathroom",
-      "prix": "1000dhs",
+      "prix": "14500dhs",
       "description": "",
       "Image": "/assets/bathroom4.jpg",
       "category":"bathroom"
@@ -42,7 +42,7 @@
     {
         "id": 11,
         "nom": "bathroom",
-        "prix": "1000dhs",
+        "prix": "20000dhs",
         "description": "",
         "Image": "/assets/bathroom6.jpg",
         "category":"bathroom"
