@@ -1,4 +1,4 @@
-// livingroomContext.js
+
 import { createContext, useContext, useState } from "react";
 
 const LivingroomContext = createContext({});
@@ -46,7 +46,7 @@ export const LivingroomProvider = ({ children }) => {
     });
   };
 
-  const removeLivingroomItem = (id) => {
+    const removeLivingroomItem = (id) => {
     setLivingroomItems((cartItems) =>
       cartItems.filter((item) => item.id !== id)
     );

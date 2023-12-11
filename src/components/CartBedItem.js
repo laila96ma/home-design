@@ -1,12 +1,12 @@
 import React from "react";
 import { Stack } from "react-bootstrap";
 import dataBedroom from "./data/dataBedroom.json";
-import { useBedroom } from "./context/BedroomContext";
+import { useShoppingCart } from "./context/shoppingCart";
 
 
 const CartBedItem = ({ id, quantity }) => {
     const item = dataBedroom.find((i) => i.id === id);
-    const { RemoveItem,getTotal  } = useBedroom();
+    const { RemoveItem,getTotal  } = useShoppingCart();
 
     if (item == null) {
         return null;

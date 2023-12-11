@@ -1,12 +1,12 @@
 import React from "react";
 import { Stack } from "react-bootstrap";
 import dataBathroom from "./data/databathroom.json";
-import { useBathroom } from "./context/BathroomContext";
+import { useShoppingCart } from "./context/shoppingCart";
 
 
 const CartBathItem = ({ id, quantity }) => {
     const item = dataBathroom.find((i) => i.id === id);
-    const { RemoveItem,getTotal  } = useBathroom();
+    const { RemoveItem,getTotal  } = useShoppingCart();
 
     if (item == null) {
         return null;
