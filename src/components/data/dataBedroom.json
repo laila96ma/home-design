@@ -24,7 +24,7 @@
       "category":"bedroom"
     },
     {
-      "id": 14,
+      "id": 15,
       "nom": "bedroom",
       "prix1": "15000dhs",
       "description": "",
@@ -32,7 +32,7 @@
       "category":"bedroom"
     },
     {
-      "id": 15,
+      "id": 16,
       "nom": "bedroom",
       "prix": "23000dhs",
       "description": "",
@@ -40,7 +40,7 @@
       "category":"bathroom"
     },
     {
-      "id": 16,
+      "id": 17,
       "nom": "bedroom",
       "prix": "27000dhs",
       "description": "",

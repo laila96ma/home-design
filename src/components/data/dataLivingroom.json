@@ -1,6 +1,6 @@
 [
     {
-      "id": 17,
+      "id": 18,
       "nom": "living room",
       "prix": "30000dhs",
       "description": "",
@@ -8,7 +8,7 @@
       "category":"livingroom"
     },
     {
-      "id": 18,
+      "id": 19,
       "nom": "living room",
       "prix": "10000dhs",
       "description": "",
@@ -16,7 +16,7 @@
       "category":"livingroom"
     },
     {
-      "id": 19,
+      "id": 20,
       "nom": "living room",
       "prix": "25000dhs",
       "description": "",
@@ -24,7 +24,7 @@
       "category":"livingroom"
     },
     {
-      "id": 20,
+      "id": 21,
       "nom": "living room",
       "prix1": "18000dhs",
       "description": "",
@@ -32,7 +32,7 @@
       "category":"livingroom"
     },
     {
-      "id": 21,
+      "id": 22,
       "nom": "living room",
       "prix": "250000dhs",
       "description": "",
@@ -40,7 +40,7 @@
       "category":"livingroom"
     },
     {
-        "id": 22,
+        "id": 23,
         "nom": "living room",
         "prix": "15000dhs",
         "description": "",
